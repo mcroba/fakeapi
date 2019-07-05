@@ -1,13 +1,15 @@
-[{
-	"id": "item1-id",
-	"title": "item1-title",
-	"url": "/path/item1",
-	"hideHierarchiesNavigation": true,
-	"hideTimeNavigation": false
-}, {
-	"id": "item2-id",
-	"title": "item2-title",
-	"url": "/path/item2",
-	"hideHierarchiesNavigation": true,
-	"hideTimeNavigation": false
-}]
+{
+	"items": [{
+		"id": "item1-id",
+		"title": "item1-title",
+		"url": "/path/item1",
+		"hideHierarchiesNavigation": true,
+		"hideTimeNavigation": false
+	}, {
+		"id": "item2-id",
+		"title": "item2-title",
+		"url": "/path/item2",
+		"hideHierarchiesNavigation": true,
+		"hideTimeNavigation": false
+	}]
+}
